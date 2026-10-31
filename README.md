@@ -13,4 +13,3 @@ Hi, I'm Pranav Mohan Agrawal, an 18-year-old B.Tech CSE student specializing in 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranavagrawalll&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=pranavagrawalll&icon=1&color=0)](https://visitcount.itsvg.in)
